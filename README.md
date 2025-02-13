@@ -6,6 +6,7 @@ This is a Gameboy emulator written in C++. WIP.
 
 - CMake
 - [Just](https://github.com/casey/just)
+- [SDL3](https://github.com/libsdl-org/SDL)
 
 ## Building
 

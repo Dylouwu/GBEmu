@@ -12,7 +12,7 @@ default: build run
 build:
     {{CXX}} {{CXXFLAGS}} -o {{TARGET}} {{SRC}}
 
-# Run the compiled emulator
+# Run the compiled emulator with the rom file
 run:
     ./{{TARGET}} {{ARGS}}
 
